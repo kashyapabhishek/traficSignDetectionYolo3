@@ -1,0 +1,5 @@
+classes = 4
+train = training/train.txt
+valid = training/test.txt
+names = training/classes.names
+backup = /content/drive/MyDrive/yolobackup/traficBackup
